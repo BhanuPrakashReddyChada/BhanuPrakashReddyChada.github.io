@@ -1,0 +1,23 @@
+{
+  "name": "bhanu.github.io",
+  "version": "1.0.0",
+  "description": "My Portfolio page",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "author": "Bhanu Prakash Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
